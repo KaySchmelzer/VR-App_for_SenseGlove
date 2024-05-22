@@ -27,4 +27,4 @@ The second task is a box which has holes in different kind of shapes. The user n
 
 The third task is a bowling ball with some bowling pins.
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/KaySchmelzer/VR-App_for_SenseGlove/blob/master/image17.png)?raw=true)
+![alt text](https://github.com/KaySchmelzer/VR-App_for_SenseGlove/blob/master/image17.png?raw=true)
