@@ -9,7 +9,9 @@ In this repository you'll find the Unity project i was working on as well as som
 
 To enable the controls via SenseGlove Nova you have to enable the "XRRig"-component and disable the "Complete XR Origin Set Up"- and "XR Device Simulator"-component. 
 
-If you want to build the application file for your VR-device, you also need to include the "CalibrationVoid_XR" scene in the build settings. This is required because the scene is needed to calibrate the SenseGlove Nova if you pair them with your VR-device. 
+If you want to build the application file for your VR-device, you also need to include the "CalibrationVoid_XR" scene in the build settings. This is required because the scene is needed to calibrate the SenseGlove Nova if you pair them with your VR-device.
+
+While running the application it's possible to teleport in the room while using the SenseGlove Nova. To teleport you have to point to the ground with your left index finger and make a thumbs up gesture with your right hand.
 
 # For regular VR-Controllers
 
