@@ -26,3 +26,5 @@ The first task is a bow which can be used to shoot stationary targets.
 The second task is a box which has holes in different kind of shapes. The user needs to grab different figures and precisely get them through the right holes.
 
 The third task is a bowling ball with some bowling pins.
+
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/KaySchmelzer/VR-App_for_SenseGlove/blob/master/image17.png)?raw=true)
