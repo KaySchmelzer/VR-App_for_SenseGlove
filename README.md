@@ -1,3 +1,5 @@
+Currently requires at least Blender 3.6 installed to function properly.
+
 # VR-App_for_SenseGlove
 VR-Application made with Unity for both SenseGlove Nova and regular controllers of VR-Headsets.
 
